@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Mikael Gabriel</h1>
+<h1 align="center">👋 Olá, eu sou o Mikael Alcantara</h1>
 
 <p align="center">
   💻 Desenvolvedor Front-End Júnior | 🌐 Foco em E-commerce & APIs | 🎨 Ex-Designer Gráfico <br>
