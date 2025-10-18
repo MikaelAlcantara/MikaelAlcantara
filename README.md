@@ -16,7 +16,7 @@
 - 📚 Atualmente estudando **novas tecnologias para web e e-commerce**.  
 
 ---
-
+ 
 ### 🛠️ Tecnologias & Ferramentas
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
