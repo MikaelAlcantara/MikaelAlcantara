@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Mikael Alcantara</h1>
 
 <p align="center">
-  💻 Desenvolvedor Front-End Júnior | 🌐 Foco em E-commerce & APIs | 🎨 Designer Gráfico <br>
+  💻 Desenvolvedor FullStack Jr | 🌐 Foco em Desenvolvimento Web & APIs | 🎨 Designer Gráfico <br>
   📍 Brasil
 </p>
 
