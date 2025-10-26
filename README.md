@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 🎯 Desenvolvedor Front-End com experiência em **HTML, CSS, JavaScript** e desenvolvimento responsivo.  
+- 🎯 Desenvolvedor Web com experiência em **HTML, CSS, JavaScript** e desenvolvimento responsivo.  
 - ⚡ Interesse em **e-commerce** (responsividade, performance, Shopify, integrações simples com APIs).  
 - 📊 Experiência em análise de dados com **Power BI, Looker Studio e Excel**.  
 - 🔧 Já desenvolvi **automações em Python integradas com SAP**, aplicando tecnologia para melhorar processos.  
